@@ -25,7 +25,6 @@
   * [Verification](#verification)
 * [How to Run](#how-to-run)
 * [Viva Question and Answer](#viva-question-and-answer)
-* [Academic Integrity](#academic-integrity)
 
 ---
 
