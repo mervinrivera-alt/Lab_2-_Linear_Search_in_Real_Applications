@@ -270,7 +270,7 @@ The lab requires a test-evidence table and testing of normal and edge cases.
 | Target at last position  | Target: `SQL`                                               | Index `4`              | `1` occurrence            | `findFirst`: 5, `countMatches`: 5 |
 | Target missing           | Target: `Python`                                            | No index found         | `0` occurrences           | `findFirst`: 5, `countMatches`: 5 |
 | Repeated title           | Target: `Java`                                              | Index `1`              | `2` occurrences           | `findFirst`: 2, `countMatches`: 5 |
-| Adjacent duplicates      | Array: `{"C", "Java", "Java", "DSA", "SQL"}`, target `Java` | Index `1`              | `2` occurrences           | `findFirst`: 2, `countMatches`: 5 |
+
 
 ### Required Console Evidence
 
